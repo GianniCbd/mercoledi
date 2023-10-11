@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+}
+header {
+  text-align: center;
+}
+
+main {
+  background-image: url(https://media.istockphoto.com/id/475172888/it/foto/macro-foglia-superficie-poco-profonde-dof.jpg?s=2048x2048&w=is&k=20&c=vlHpeDuQgJG9Gavs3mDL3yF3t1wai2GS41EGFR672Tw=);
+}
+
+#forma {
+  padding: 100px 100px 100px 100px;
+}
+
+#forma > div {
+  padding-bottom: 3.5px;
+  width: max-content;
+  color: white;
+  font-weight: 700;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#forma label {
+  display: block;
+}
+
+#primoInvio button {
+  color: black;
+  font-weight: bold;
+  border-radius: 10px;
+  margin: 2px;
+  padding: 10px;
+}
